@@ -1,0 +1,1 @@
+# Sample BMC Remedy plugin using apache camel with spring framework
